@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Prova-pratica</string>
+    <string name="cpf">CPF</string>
+    <string name="valor_dispon_vel_para_saque">Valor disponível para saque</string>
+    <string name="cr_ditos_n_o_liberados">Créditos não liberados</string>
+    <string name="selecione_um_semestre">Selecione um semestre</string>
+    <string name="nota_fiscal_goiana">Nota Fiscal Goiana</string>
+    <string name="valor">Valor</string>
+    <string name="mostrar_resumo_aqui">Mostrar resumo aqui</string>
+    <string name="solicitar_saque">Solicitar saque</string>
+</resources>
